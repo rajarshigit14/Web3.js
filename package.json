@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "solc": "^0.8.21",
+    "web3": "^4.0.3"
+  }
+}
